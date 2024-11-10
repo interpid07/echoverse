@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+librosa
+torch
+torchaudio
+plotly
+numpy
+gdown
